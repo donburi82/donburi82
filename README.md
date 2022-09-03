@@ -1,5 +1,3 @@
-### 👋 Hi
-
 ### 🎓 Education
   - 🇭🇰 09.2018 ~ Hong Kong University of Science and Technology (HKUST)
     - B.E. in Computer Science
