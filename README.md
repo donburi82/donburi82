@@ -1,3 +1,6 @@
+[![donburi82's GitHub stats](https://github-readme-stats.vercel.app/api?username=donburi82)](https://github.com/anuraghazra/github-readme-stats)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=donburi82)](https://solved.ac/donburi82/)
+
 ### 🎓 Education
   - 🇭🇰 09.2018 ~ Hong Kong University of Science and Technology (HKUST)
     - B.E. in Computer Science
